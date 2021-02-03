@@ -2,7 +2,11 @@
 
 ## About
 
-Das KI TechCafe light soll non-Techies helfen  helfen OpenSource Technologien schnell kennenzulernen, anzuwenden und einzuschätzen welche Rolle sie im Kontext der eigenen Arbeit spielen.
+Das KI TechCafe light ist für IBMer \(Partner und gerne auch Kunden\), die Interesse haben Data Science, Machine Learning und Deep Learning auf der IBM Cloud kennenzulernen. Dabei arbeiten wir mit Tabellen, Text und Bild um zu Klassifizieren, Informationen zu extrahieren \(Entitäten\) oder sogar Fake Texte und Bilder zu generieren. Außerdem beschäftigen wir uns damit wie wir ein Modell verfügbar machen, damit andere Dienste es nutzen können.
+
+Technologien:
+
+* Cloud Pak For Data auf der IBM Cloud
 
 Diese Einleitung ist folgendermaßen aufgebaut:
 
