@@ -21,21 +21,19 @@ Diese Einleitung ist folgendermaßen aufgebaut:
 
 ## Coaches
 
-[Max Dargatz](https://www.linkedin.com/in/max-dargatz-04851239/)  
-[Max Wurzer](https://www.linkedin.com/in/maximilian-wurzer?originalSubdomain=de)
+[Max Dargatz](https://www.linkedin.com/in/max-dargatz-04851239/)
 
 ## **Eckdaten**
 
-* 10 Sessions á 1,5h
+* X Sessions á 1,5h
 * 5 bis 8 Teilnehmer
-* remote mit eigenen Endgeräten
 
 ## **Vorkenntnisse & Was sollte man mitbringen:**
 
+* Grundausbildung Cloud aus 2020: [https://ibm.box.com/v/publicdach-techamdonnerstag](https://ibm.box.com/v/publicdach-techamdonnerstag)
 * Neugier, Engagement, Motivation
-* grundlegende IT-Kenntnisse \(z.B. Umgang mit Terminal, Betriebssystemen\)
-* grundlegende Erfahrungen mit einer oder mehr Programmiersprachen
-* BYOD \(bzw. ihr braucht ein Gerät auf dem man auch docker bzw. das eine oder andere CLI Tool installieren kann\)
+* grundlegende IT-Kenntnisse
+* Python Code lesen können hilft
 
 ## Sessions
 
