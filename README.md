@@ -1,4 +1,4 @@
-# KI TechCafe Light
+# Über das KI-TechCafé
 
 ## About
 
