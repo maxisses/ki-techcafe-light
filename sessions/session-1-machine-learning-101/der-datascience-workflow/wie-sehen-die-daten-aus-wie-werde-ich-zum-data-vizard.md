@@ -1,2 +1,2 @@
-# Wie sehen die Daten aus? Wie werde ich zum Data Vizard?
+# Wie sehen die Daten aus? Wie werde ich zum DataViz?
 
