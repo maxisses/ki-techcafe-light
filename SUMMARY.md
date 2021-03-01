@@ -22,7 +22,7 @@
   * [Klassifikation: Modell trainieren und bewerten](sessions/session-2-ein-machine-learning-modell-selber-entwickeln/klassifikation-modell-trainieren-und-bewerten.md)
   * [Modell deployen in Watson Machine Learning](sessions/session-2-ein-machine-learning-modell-selber-entwickeln/modell-deployen-in-watson-machine-learning.md)
   * [Anwendung Testen mit einer Containerisierten App](sessions/session-2-ein-machine-learning-modell-selber-entwickeln/anwendung-testen-mit-einer-containerisierten-app.md)
-* [Session 3: Texte und Data Science - Einführung](sessions/session-2-texte-und-data-science/README.md)
+* [Session 3: Texte und Data Science - Visualisierung & Klassifikation](sessions/session-2-texte-und-data-science/README.md)
   * [Intro - Warum ist Text anders?](sessions/session-2-texte-und-data-science/intro-warum-ist-text-anders.md)
   * [Daten sammeln und vorbereiten - WebScraping](sessions/session-2-texte-und-data-science/daten-sammeln-und-vorbereiten-webscraping.md)
   * [Klassifikation "revisited" - Texte Kategorien zuordnen](sessions/session-2-texte-und-data-science/untitled-1.md)
