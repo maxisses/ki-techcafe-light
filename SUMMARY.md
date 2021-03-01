@@ -30,6 +30,6 @@
     * [Testen des Modells mit einer Containerisierten Frontend-Anwendung](sessions/session-2-texte-und-data-science/untitled/testen-des-modells-mit-einer-containerisierten-frontend-anwendung.md)
   * [Spezialfall Sentiment Analyse: Transfer Learning und erneut Klassifikation](sessions/session-2-texte-und-data-science/untitled-2.md)
   * [Untitled](sessions/session-2-texte-und-data-science/untitled-3.md)
-* [Untitled](sessions/untitled.md)
+* [Session 4: Texte & Data Science - Deep Learning & Container](sessions/untitled.md)
 * [Untitled](sessions/untitled-2.md)
 
