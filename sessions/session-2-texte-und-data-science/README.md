@@ -1,2 +1,2 @@
-# Session 2: Texte und Data Science
+# Session 3: Texte und Data Science - Einführung
 
