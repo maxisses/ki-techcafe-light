@@ -5,9 +5,16 @@
 
 ## Sessions
 
+* [Session 0: Fahrplan](sessions/session-0-fahrplan/README.md)
+  * [Markus Simple Welt der KI](sessions/session-0-fahrplan/markus-simple-welt-der-ki.md)
 * [Session 1: Machine Learning 101](sessions/session-1-machine-learning-101/README.md)
   * [IBM Cloud KI Services Überblick](sessions/session-1-machine-learning-101/ibm-cloud-ki-services-ueberblick.md)
-  * [Cloud Pak for Data kennenlernen](sessions/session-1-machine-learning-101/cloud-pak-for-data-kennenlernen.md)
+  * [Cloud Pak for Data kennenlernen](sessions/session-1-machine-learning-101/cloud-pak-for-data-kennenlernen/README.md)
+    * [Objektspeicher einrichten](sessions/session-1-machine-learning-101/cloud-pak-for-data-kennenlernen/objektspeicher-einrichten.md)
+    * [CloudPak4Data aufsetzen](sessions/session-1-machine-learning-101/cloud-pak-for-data-kennenlernen/cloudpak4data-aufsetzen.md)
+    * [CP4D Projekt anlegen](sessions/session-1-machine-learning-101/cloud-pak-for-data-kennenlernen/cp4d-projekt-anlegen.md)
+    * [zusätzliche Services für das Projekt freischalten](sessions/session-1-machine-learning-101/cloud-pak-for-data-kennenlernen/zusaetzliche-services-fuer-das-projekt-freischalten.md)
+    * [Kollaboration, Git & GPU Runtimes](sessions/session-1-machine-learning-101/cloud-pak-for-data-kennenlernen/kollaboration-git-and-gpu-runtimes.md)
   * [Der DataScience Workflow](sessions/session-1-machine-learning-101/der-datascience-workflow/README.md)
     * [Unser Anwendungsfall](sessions/session-1-machine-learning-101/der-datascience-workflow/unser-anwendungsfall.md)
     * [Welche Daten benutzen wir?](sessions/session-1-machine-learning-101/der-datascience-workflow/welche-daten-benutzen-wir.md)
