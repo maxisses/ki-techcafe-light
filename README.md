@@ -7,7 +7,7 @@ Das KI TechCafe light ist für IBMer \(Partner und gerne auch Kunden\), die Inte
 Technologien:
 
 * Cloud Pak For Data auf der IBM Cloud
-* IBM Cloud: S3, Bare Metal, 
+* IBM Cloud: S3
 * tbd: Docker 
 * tbd: Kubernetes / OpenShift
 
