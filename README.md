@@ -33,22 +33,22 @@ Diese Einleitung ist folgendermaßen aufgebaut:
 * Grundausbildung Cloud aus 2020: [https://ibm.box.com/v/publicdach-techamdonnerstag](https://ibm.box.com/v/publicdach-techamdonnerstag)
 * Neugier, Engagement, Motivation
 * grundlegende IT-Kenntnisse
-* Python Code lesen können hilft
+* ein bisschen Code **lesen können** hilft
 
 ## Sessions
 
 | ID | Titel |
 | :--- | :--- |
-| Session 1 | [Cloud-Native, Container & Public Cloud]() |
-| Session 2 | [Flyover Cloud, Container, CI/CD, PaaS]() |
-| Session 3 | [Kubernetes & Container am Beispiel einer Java Anwendung]() |
-| Session 4 | [Kubernetes Reloaded mit Java Liberty, Helm & private Registry]() |
-| Session 5 | [Continuous Integration / Continuous Delivery mit Kubernetes & Tekton]() |
-| Session 6 | [Was fehlt "vanilla" Kubernetes?]() |
-| Session 7 | [Service Mesh mit Istio und OpenShift]() |
-| Session 8 | [Serverless - OpenShift Operator & KNative]() |
-| Session 9 | [Continuous Integration / Continuous Delivery mit Tekton in OpenShift]() |
-| Session 10 | [Machine Learning & Container Technologie - TextGen im Container]() |
+| Session 1 | Einführung zu Data Science und Machine Learning, Überblick über die Veranstaltung |
+| Session 2 | strukturierte Daten: Mit IoT Daten auf der Cloud klassifizieren |
+| Session 3 | strukturierte Daten: Modelle entwickeln und deployen |
+| Session 4 | Textdaten: Klassifizierung von Texten mit Deep Learning und Watson APIs |
+| Session 5 | Textdaten: Wie passt Data Science & Machine Learning in die Containerwelt? |
+| Session 6 | Was finden wir in unseren KI-Projekten für Ansätze wieder? |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ## Agenda der Sessions
 
