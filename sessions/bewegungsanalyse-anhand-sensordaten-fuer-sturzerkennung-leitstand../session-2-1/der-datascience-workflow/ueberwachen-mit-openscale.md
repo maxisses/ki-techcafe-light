@@ -1,2 +1,0 @@
-# Überwachen mit OpenScale
-
