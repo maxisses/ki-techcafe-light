@@ -39,11 +39,11 @@ Diese Einleitung ist folgendermaßen aufgebaut:
 
 | ID | Titel |
 | :--- | :--- |
-| Session 1 | Einführung zu Data Science und Machine Learning, Überblick über die Veranstaltung |
-| Session 2 | strukturierte Daten: Mit IoT Daten auf der Cloud klassifizieren |
-| Session 3 | strukturierte Daten: Modelle entwickeln und deployen |
-| Session 4 | Textdaten: Klassifizierung von Texten mit Deep Learning und Watson APIs |
-| Session 5 | Textdaten: Wie passt Data Science & Machine Learning in die Containerwelt? |
+| Session 1 | Markus’ kleine Welt der KI​ |
+| Session 2 | strukturierte Daten: Ich will Machine Learning machen – ich brauch Daten!​ |
+| Session 3 | strukturierte Daten: Das Modell ist da – aber wie setzt man es ein?​ |
+| Session 4 | Textdaten: Was ändert sich bei Textanalyse – und was nicht?​ |
+| Session 5 | Textdaten: Fake Texte – wie baue meinen eigenen Fake Text Generator?​ |
 | Session 6 | Was finden wir in unseren KI-Projekten für Ansätze wieder? |
 |  |  |
 |  |  |
