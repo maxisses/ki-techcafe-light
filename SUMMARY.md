@@ -18,7 +18,7 @@
     * [Der DataScience Workflow](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/README.md)
       * [Unser Anwendungsfall - IoT Sensordaten](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/unser-anwendungsfall.md)
       * [Welche Daten benutzen wir?](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/welche-daten-benutzen-wir.md)
-      * [IoT Service erstellen](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/iot-service-erstellen.md)
+      * [IoT Anwendung auf OpenShift deployen](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/iot-service-erstellen.md)
       * [Device Anbinden](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/device-anbinden-and-android-app-installieren.md)
       * [Wie sehen die Daten aus? Wie werde ich zum DataViz?](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard.md)
       * [Ein Auto-AI Experiment](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/xia-warum-kommt-das-jetzt-raus.md)
