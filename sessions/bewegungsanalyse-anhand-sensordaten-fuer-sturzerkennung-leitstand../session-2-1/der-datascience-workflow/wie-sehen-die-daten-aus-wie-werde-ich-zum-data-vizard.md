@@ -1,2 +1,2 @@
-# Wie sehen die Daten aus? Wie werde ich zum DataViz?
+# Modell trainieren in Python
 
