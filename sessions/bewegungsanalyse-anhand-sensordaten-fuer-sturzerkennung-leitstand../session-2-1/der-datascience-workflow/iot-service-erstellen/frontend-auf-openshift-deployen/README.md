@@ -1,2 +1,2 @@
-# Frontend auf OpenShift deployen
+# Deployment auf OpenShift
 
