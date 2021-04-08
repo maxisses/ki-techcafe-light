@@ -22,9 +22,9 @@ Aktuell ist die Datenbank NUR für Anwendungen im Cluster erreichbar!
 
 Um die Daten später auch im CloudPak4Data nutzen zu können sollten wir Datenbank \(ggf. sogar nur temporär\) für Zugriffe von außerhalb zugänglich machen. Dazu müssen wir lediglich den Kubernetes Service anpassen bspw. auf den Typ "NodePort". Dazu editieren wir das YAML-File an der Stelle "type:" und änder von "ClusterIP" auf "NodePort" und drücken auf save.
 
-![](../../../../../../.gitbook/assets/image%20%2827%29.png)
+![](../../../../../../.gitbook/assets/image%20%2828%29.png)
 
 In der Folge können wir die Datenbank von außerhalb erreich und sie z.B. auch in ein lokales Datenbankmonitoring aufnehmen. Ein Blick ins pgAdmin zeigt, dass Daten geschrieben werden und alles funktioniert.
 
-![](../../../../../../.gitbook/assets/image%20%2818%29.png)
+![](../../../../../../.gitbook/assets/image%20%2819%29.png)
 

@@ -1,2 +1,2 @@
-# \(optional\) Übung 1: Deployment auf OpenShift
+# Übung 1 \(optional\): Deployment auf OpenShift
 

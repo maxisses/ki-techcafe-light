@@ -25,7 +25,7 @@
       * [Anwendungsfall: IoT Sensordaten](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/unser-anwendungsfall/README.md)
         * [Welche Daten benutzen wir?](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/unser-anwendungsfall/welche-daten-benutzen-wir.md)
       * [Daten anbinden und verstehen](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/iot-service-erstellen/README.md)
-        * [\(optional\) Übung 1: Deployment auf OpenShift](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/iot-service-erstellen/frontend-auf-openshift-deployen/README.md)
+        * [Übung 1 \(optional\): Deployment auf OpenShift](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/iot-service-erstellen/frontend-auf-openshift-deployen/README.md)
           * [Verbinden mit dem OpenShift Cluster](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/iot-service-erstellen/frontend-auf-openshift-deployen/untitled.md)
           * [eigenes OpenShift Projekt anlegen](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/iot-service-erstellen/frontend-auf-openshift-deployen/eigenes-openshift-projekt-anlegen.md)
           * [1. Deploy MQTT Broker](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand../session-2-1/der-datascience-workflow/iot-service-erstellen/frontend-auf-openshift-deployen/untitled-1.md)
