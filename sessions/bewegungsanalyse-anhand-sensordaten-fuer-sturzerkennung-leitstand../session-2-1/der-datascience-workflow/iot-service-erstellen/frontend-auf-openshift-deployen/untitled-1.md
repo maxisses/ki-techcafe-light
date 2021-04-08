@@ -22,7 +22,7 @@ Dazu führen wir den folgenden Befehl aus und kopieren den entsprechenden Hostna
 ibmcloud ks nlb-dns ls --cluster OCPclusterPub
 ```
 
-![](../../../../../../.gitbook/assets/image%20%2814%29.png)
+![](../../../../../../.gitbook/assets/image%20%2815%29.png)
 
 {% hint style="warning" %}
 Tatsächlich müssten wir eigentlich auch das entsprechende Zertifikat für eine verschlüsselte Verbindung zB über eine ConfigMap in den Container des MQTT Broker reinmounten. Um das abzukürzen liegt im GitRepo bereits ein Zertifikat, welches beim Bauen des Containers an die richtige Stelle abgelegt wird.  
