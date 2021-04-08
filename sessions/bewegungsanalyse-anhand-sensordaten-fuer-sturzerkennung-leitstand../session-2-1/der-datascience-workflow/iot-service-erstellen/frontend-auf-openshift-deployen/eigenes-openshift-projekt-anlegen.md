@@ -24,5 +24,5 @@ oc new-project sensorapp-<eure initialien> (klein geschrieben)
 Projekte anlegen ist beim Administrator angesiedelt.
 {% endhint %}
 
-![](../../../../../../.gitbook/assets/image%20%2817%29.png)
+![](../../../../../../.gitbook/assets/image%20%2820%29.png)
 

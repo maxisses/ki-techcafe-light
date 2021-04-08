@@ -2,11 +2,11 @@
 
 Im besten Falle können wir auf die Webseite gehen und Trainingsdaten generieren:
 
-![](../../../../../../.gitbook/assets/image%20%2826%29.png)
+![](../../../../../../.gitbook/assets/image%20%2830%29.png)
 
 Und sehen in den Logs des Backends wie fleißig Daten in die PostgreSQL geschrieben werden:
 
-![](../../../../../../.gitbook/assets/image%20%2819%29.png)
+![](../../../../../../.gitbook/assets/image%20%2822%29.png)
 
 {% hint style="danger" %}
 Jetzt stellt ihr fest es geht nicht - und ein Fehler ist tatsächlich noch drin! \(falls sonst alles wie geplant geklappt hat :\) \)
@@ -16,5 +16,5 @@ Nach etwas debugging und Vergleich der Umgebungsvariablen wird klar, dass eine U
 
 Das kann man im Deployment des Backends anpassen und dann sollte es so aussehen wie oben.
 
-![](../../../../../../.gitbook/assets/image%20%2812%29.png)
+![](../../../../../../.gitbook/assets/image%20%2814%29.png)
 
