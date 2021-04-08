@@ -1,5 +1,7 @@
 # Anwendungsfall: IoT Sensordaten
 
+![](../../../../../.gitbook/assets/image%20%288%29.png)
+
 Für KI brauchen wir Daten. Jeden Tag entstehen XY Sensordaten. Ein riesiger Anteil wird von Smartphone Sensoren erzeugt. Und die werden wir benutzen.
 
 * Näherungssensor​
