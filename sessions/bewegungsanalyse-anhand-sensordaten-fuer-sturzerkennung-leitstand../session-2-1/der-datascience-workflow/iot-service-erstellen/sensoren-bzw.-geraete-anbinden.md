@@ -1,2 +1,4 @@
-# Sensoren bzw. Geräte anbinden
+# Übung 2: Trainingsdaten erzeugen
+
+Wir planen 
 

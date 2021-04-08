@@ -2,7 +2,7 @@
 
 Im besten Falle können wir auf die Webseite gehen und Trainingsdaten generieren:
 
-![](../../../../../../.gitbook/assets/image%20%2830%29.png)
+![](../../../../../../.gitbook/assets/image%20%2831%29.png)
 
 Und sehen in den Logs des Backends wie fleißig Daten in die PostgreSQL geschrieben werden:
 
