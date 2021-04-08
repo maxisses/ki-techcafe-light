@@ -1,36 +1,8 @@
 # Übung 2: Trainingsdaten erzeugen
 
-{% api-method method="post" host="" path="" %}
-{% api-method-summary %}
-blub
-{% endapi-method-summary %}
-
-{% api-method-description %}
-
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=false %}
-
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+{% hint style="info" %}
+Klassifikation ist dem Bereich des "Supervised Learning" zuzurechnen. Supervised Learning heißt ich habe Beispieldaten inkl. einem Labelling dieser. Für uns heißt das ganz konkret das wir bei jedem Übertragenen Wert des Akzelerometers und des Gyroskops in unseren Trainingsdaten ein Label brauchen ob diese der Klasse "Gehen", "Liegen" oder "Treppen steigen" zuzuordnen sind.
+{% endhint %}
 
 Jetzt können wir Trainingsdaten in die Datenbank schreiben, indem wir unsere Smartphones nehmen, einen Namen wählen und Trainingsdaten erzeugen.
 
