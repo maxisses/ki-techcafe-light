@@ -1,15 +1,12 @@
 # Session 2: Ich will Machine Learning machen – ich brauch Daten!​
 
-**fiktive Aufgabe:**
+Halt Stop! Was willst du überhaupts machen? Für wenn baust du die Lösung? Gibt es einen Business Need?
 
-Finde eine Möglichkeit die es  Angehörigen von Pflegefällen im Altenheim oder ambulant pflegenden ermöglicht zu schauen ob sich die zu pflegenden über den Tag hinweg bewegen und ggf. mal rausgehen.
+All dies sind Fragen die man sich zu Beginn eines Projektss stellen sollte. Deshalb lohnt des sich auch einen Blick auf das CRISP-DM Model \(CRoss-Industry Standard Process for Data Mining\) zu schauen.
 
-### **zu verprobenden Lösungsidee:**
+Im nächsten Schritt gehen wir vertieft auf den **«Business Understanding»** ein, um dann im Anschluss vertieft auf Daten einzugehen. 
 
-Sensoren im Handy nutzen und mittels Machine Learning die Bewegungsart klassifizieren. Später müssten ggf. Sensoren einer Uhr oder eines Armbandes genutzt werden.  
-Vorgeschlagenen initiale Bewegungsarten:
+![](../../.gitbook/assets/image%20%2846%29.png)
 
-* liegen
-* gehen
-* Treppen steigen
+
 
