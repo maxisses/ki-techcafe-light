@@ -58,7 +58,5 @@
   * [Übung 2: Text Generator im Container ausführen](sessions/session-5/uebung-2-text-generator-im-container-ausfuehren.md)
   * [Übung 3: \(optional\) UI und Backend auf OpenShift bringen und skalieren lassen \(non-GPU :\( \)](sessions/session-5/uebung-3-optional-ui-und-backend-auf-openshift-bringen-und-skalieren-lassen-non-gpu.md)
   * [Übung 4: Die Cloud zur \(halben\) Rettung - Code Engine](sessions/session-5/uebung-4-die-cloud-zur-halben-rettung-code-engine.md)
-* [Bewegungsanalyse anhand Sensordaten für Sturzerkennung, Leitstand..](sessions/bewegungsanalyse-anhand-sensordaten-fuer-sturzerkennung-leitstand...md)
-* [Textanalyse um Dokumente zu klassifizieren, Stimmungen auszulesen und Fake Texte  zu schreiben](sessions/textanalyse-um-dokumente-zu-klassifizieren-stimmungen-auszulesen-und-fake-texte-zu-schreiben.md)
 * [Session 6: IBM AI-Projekte und was sie mit uns zu haben?](sessions/session-6-welche-projekte.md)
 
