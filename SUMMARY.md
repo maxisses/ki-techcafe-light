@@ -7,9 +7,9 @@
 
 * [Session 1: Markus’ kleine Welt der KI​](sessions/session-1.md)
 * [Session 2: Ich will Machine Learning machen – ich brauch Daten!​](sessions/session-2-1/README.md)
-  * [Anwendungsfall: IoT Sensordaten](sessions/session-2-1/unser-anwendungsfall/README.md)
+  * [Datenquellen identifizieren](sessions/session-2-1/unser-anwendungsfall/README.md)
     * [Welche Daten benutzen wir?](sessions/session-2-1/unser-anwendungsfall/welche-daten-benutzen-wir.md)
-  * [Daten anbinden und verstehen](sessions/session-2-1/iot-service-erstellen/README.md)
+  * [Daten anbinden](sessions/session-2-1/iot-service-erstellen/README.md)
     * [Übung 1 \(optional\): Deployment auf OpenShift](sessions/session-2-1/iot-service-erstellen/frontend-auf-openshift-deployen/README.md)
       * [Verbinden mit dem OpenShift Cluster](sessions/session-2-1/iot-service-erstellen/frontend-auf-openshift-deployen/untitled.md)
       * [eigenes OpenShift Projekt anlegen](sessions/session-2-1/iot-service-erstellen/frontend-auf-openshift-deployen/eigenes-openshift-projekt-anlegen.md)

@@ -1,4 +1,4 @@
-# Daten anbinden und verstehen
+# Daten anbinden
 
 IoT Anwendung auf OpenShift deployen
 
