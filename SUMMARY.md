@@ -23,7 +23,7 @@
     * [Cloud Pak Intro](sessions/session-2-1/device-anbinden-and-android-app-installieren/cloud-pak-intro.md)
     * [Übung 3: CloudPak4D-as-a-Service anlegen in IBM Cloud](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-3-cloudpak4d-as-a-service-anlegen-in-ibm-cloud.md)
     * [Übung 4: Daten vorbereiten Notebook anlegen](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-4-notebook-anlegen.md)
-    * [Untitled](sessions/session-2-1/device-anbinden-and-android-app-installieren/untitled.md)
+    * [\(optional\) Übung 5: Daten selber manipulieren](sessions/session-2-1/device-anbinden-and-android-app-installieren/untitled.md)
   * [Modell trainieren in Python](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard.md)
   * [Modell als REST-Api deployen](sessions/session-2-1/xia-warum-kommt-das-jetzt-raus.md)
   * ["Technologiestack" der Sessions](sessions/session-2-1/ibm-cloud-ki-services-ueberblick/README.md)
