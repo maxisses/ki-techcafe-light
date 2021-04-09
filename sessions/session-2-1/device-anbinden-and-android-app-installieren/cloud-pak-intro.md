@@ -1,4 +1,4 @@
-# übertragen - Cloud Pak for Data kennenlernen
+# Cloud Pak Intro
 
 --&gt; Was ist ein Projekt
 
