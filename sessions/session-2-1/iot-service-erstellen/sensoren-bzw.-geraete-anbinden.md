@@ -12,7 +12,7 @@ Der Link ist die angelegte "Route" des Frontends - in meinem Beispiel:
 
 
 
-![](../../../../.gitbook/assets/image%20%2818%29.png)
+![](../../../.gitbook/assets/image%20%2818%29.png)
 
 {% hint style="info" %}
 "Bewegungen durch Machine Learning klassifizieren" geht noch nicht, denn die Funktionalität haben wir noch nicht implementiert bzw. deployed und ein Modell ist auch noch nicht trainiert.  
@@ -27,7 +27,7 @@ Das Dispay muss eingeschaltet bleiben sonst wird die Übertragung unterbrochen -
 
 
 
-![](../../../../.gitbook/assets/image%20%2830%29.png)
+![](../../../.gitbook/assets/image%20%2830%29.png)
 
 
 
