@@ -25,6 +25,7 @@
     * [Übung 3: CloudPak4D-as-a-Service anlegen in IBM Cloud](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-3-cloudpak4d-as-a-service-anlegen-in-ibm-cloud/README.md)
       * [Services aufsetzen](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-3-cloudpak4d-as-a-service-anlegen-in-ibm-cloud/services-aufsetzen.md)
       * [\(optional\) Connect Data / Visuelle Datenbearbeitung zeigen](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-3-cloudpak4d-as-a-service-anlegen-in-ibm-cloud/optional-connect-data-visuelle-datenbearbeitung-zeigen.md)
+      * [Jupyter Notebook anlegen](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-3-cloudpak4d-as-a-service-anlegen-in-ibm-cloud/jupyter-notebook-anlegen.md)
     * [Übung 4: Daten vorbereiten für Machine Learning](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-4-notebook-anlegen.md)
   * [Modell trainieren in Python](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/README.md)
     * [AutoAI](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/autoai.md)
