@@ -23,7 +23,7 @@
   * [Daten transformieren](sessions/session-2-1/device-anbinden-and-android-app-installieren/README.md)
     * [Cloud Pak Intro](sessions/session-2-1/device-anbinden-and-android-app-installieren/cloud-pak-intro.md)
     * [Übung 3: CloudPak4D-as-a-Service anlegen in IBM Cloud](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-3-cloudpak4d-as-a-service-anlegen-in-ibm-cloud.md)
-    * [Übung 4: Daten vorbereiten Notebook anlegen](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-4-notebook-anlegen.md)
+    * [Übung 4: Daten vorbereiten für Machine Learning](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-4-notebook-anlegen.md)
     * [\(optional\) Übung 5: Daten selber manipulieren](sessions/session-2-1/device-anbinden-and-android-app-installieren/untitled.md)
   * [Modell trainieren in Python](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/README.md)
     * [AutoAI](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/autoai.md)
