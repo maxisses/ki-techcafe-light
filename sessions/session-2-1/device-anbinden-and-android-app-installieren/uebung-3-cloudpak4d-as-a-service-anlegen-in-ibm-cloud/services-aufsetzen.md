@@ -12,7 +12,7 @@ Um mit den Daten zu arbeiten müssen wir zuerst dir Umgebung richtig aufsetzten.
 1. Login in die IBM Cloud: [https://cloud.ibm.com/login](https://cloud.ibm.com/login)
 2. Im Suchfeld nach **"Watson Studio"** suchen.
 
-![](../../../../.gitbook/assets/image%20%2853%29.png)
+   ![](../../../../.gitbook/assets/image%20%2853%29.png)
 
 
 
