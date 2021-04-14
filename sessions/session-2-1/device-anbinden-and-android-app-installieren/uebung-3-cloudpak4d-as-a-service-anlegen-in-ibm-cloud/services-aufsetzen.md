@@ -22,7 +22,9 @@ Um mit den Daten zu arbeiten müssen wir zuerst dir Umgebung richtig aufsetzten.
    4. Select a resource group: **Default** \(oder evt. eine andere\)
    5. Click **«Create»** um den Service zu deployen
 
-      ![](../../../../.gitbook/assets/image%20%2854%29.png)
+
+
+   ![](../../../../.gitbook/assets/image%20%2854%29.png)
 
 4. Im Suchfeld nach **"Obejct Storage"** suchen und öffnen.
 5. 6. ads
