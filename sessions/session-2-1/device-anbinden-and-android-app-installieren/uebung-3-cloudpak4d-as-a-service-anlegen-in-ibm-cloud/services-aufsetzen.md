@@ -15,11 +15,15 @@ Um mit den Daten zu arbeiten müssen wir zuerst dir Umgebung richtig aufsetzten.
    ![](../../../../.gitbook/assets/image%20%2853%29.png)  
 
 3. In Konfigurations Tab folgende Einstellung für Watson Studio
+
    1. Select a location: **Frankfurt \(eu-de\)**
    2. Select a pricing plan: **Lite**
    3. Service name: z.B. **Watson Studio + «Dein Name»** \(-&gt; Name spielt keine Rolle\)
    4. Select a resource group: **Default** \(oder evt. eine andere\)
-   5. Click **«Create»** um den Service zu deployen 
+   5. Click **«Create»** um den Service zu deployen
+
+   ![](../../../../.gitbook/assets/image%20%2854%29.png)
+
 4. Im Suchfeld nach **"Obejct Storage"** suchen und öffnen.
 5. 6. ads
 7. 
