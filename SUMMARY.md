@@ -27,7 +27,6 @@
       * [\(optional\) Connect Data / Visuelle Datenbearbeitung zeigen](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-3-cloudpak4d-as-a-service-anlegen-in-ibm-cloud/optional-connect-data-visuelle-datenbearbeitung-zeigen.md)
       * [Jupyter Notebook anlegen](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-3-cloudpak4d-as-a-service-anlegen-in-ibm-cloud/jupyter-notebook-anlegen.md)
     * [Übung 4: Daten vorbereiten für Machine Learning](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-4-notebook-anlegen/README.md)
-      * [Datenbank Zugangsdaten anlegen](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-4-notebook-anlegen/datenbank-zugangsdaten-anlegen.md)
       * [Projekt-ID extrahieren und Token anlegen um neuen Datensatz später im Projekt zu speichern](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-4-notebook-anlegen/projekt-id-extrahieren-und-token-anlegen-um-datensatz-zu-speichern.md)
       * [Notebook ausführen - Daten untersuchen & transformieren](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-4-notebook-anlegen/notebook-ausfuehren.md)
   * [Modell trainieren mit AutoAI und deployen](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/README.md)
