@@ -2,8 +2,6 @@
 
 Zellen einfügen
 
-
-
 ```text
 # @hidden_cell
 dbname = "ibmclouddb"
