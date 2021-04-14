@@ -42,3 +42,7 @@ Wechselt danach zu Deployments und et voilá - hier sollte euer Modell - bald im
 
 ![](../../../.gitbook/assets/image%20%2893%29.png)
 
+**API testen**
+
+\*\*\*\*
+
