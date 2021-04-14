@@ -2,7 +2,7 @@
 
 #### Beschreibung
 
-Um mit den Daten zu arbeiten müssen wir zuerst dir Umgebung richtig aufsetzten. Hierfür benutzen das CloudPak4Data as a Service \(CP4DaaS\), welches auf der IBM Public Cloud kostenlos zur verfügung steht. Zum Bearbeiten unseres Use Case benötigen wir folgende 3 Services:  
+Um mit den Daten zu arbeiten müssen wir zuerst dir Umgebung richtig aufsetzten. Hierfür benutzen wir das CloudPak4Data as a Service \(CP4DaaS\), welches auf der IBM Public Cloud kostenlos zur verfügung steht. Zum Bearbeiten unseres Use Cases benötigen wir folgende 3 Services:  
 - Watson Studio  
 - Object Storage  
 - Watson Machine Learning
@@ -89,5 +89,23 @@ Well Done! Du hast jetzt eine Watson Studio Instanz aufgesetzt. In den nächsten
 
 ![](../../../../.gitbook/assets/image%20%2890%29.png)
 
+15. **«Watson Machine Learning»** Service hinzufügen \(Teil1/2\)
 
+1. Wechsle auf das Tab **«Settings»**
+2. **Add Services**
+3. **Watson**
+
+![](../../../../.gitbook/assets/screenshot-2021-04-14-at-15.46.35.png)
+
+
+
+16. **«Watson Machine Learning»** Service hinzufügen \(Teil2/2\)
+
+![](../../../../.gitbook/assets/screenshot-2021-04-14-at-15.48.36.png)
+
+1. Alle Filter löschen \(Reource Group, Locations, None\)
+2. Machine Learning Instanz markieren
+3. **«Associate service»**
+
+17. Well Done. Die Data Science Umgebung ist jetzt soweit aufgesetzt. Jetzt kann es losgehen.
 
