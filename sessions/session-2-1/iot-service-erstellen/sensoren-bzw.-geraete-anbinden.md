@@ -1,4 +1,4 @@
-# Übung 2: Trainingsdaten erzeugen
+# Übung 2 \(OPTIONAL\): Trainingsdaten erzeugen
 
 {% hint style="info" %}
 Klassifikation ist dem Bereich des "Supervised Learning" zuzurechnen. Supervised Learning heißt ich habe Beispieldaten inkl. einem Labelling dieser. Für uns heißt das ganz konkret das wir bei jedem Übertragenen Wert des Akzelerometers und des Gyroskops in unseren Trainingsdaten ein Label brauchen ob diese der Klasse "Gehen", "Liegen" oder "Treppen steigen" zuzuordnen sind.

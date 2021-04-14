@@ -21,7 +21,7 @@
       * [4. eigene Datenbank \(OPTIONAL\)](sessions/session-2-1/iot-service-erstellen/frontend-auf-openshift-deployen/4.-eigene-datenbank-optional/README.md)
         * [eigene PostgreSQL im OpenShift Cluster](sessions/session-2-1/iot-service-erstellen/frontend-auf-openshift-deployen/4.-eigene-datenbank-optional/optional-4.-eigene-postgresql-im-cluster.md)
         * [eigene PostgreSQL gemanaged auf der IBM Cloud](sessions/session-2-1/iot-service-erstellen/frontend-auf-openshift-deployen/4.-eigene-datenbank-optional/eigene-postgresql-gemanaged-auf-der-ibm-cloud.md)
-    * [Übung 2: Trainingsdaten erzeugen](sessions/session-2-1/iot-service-erstellen/sensoren-bzw.-geraete-anbinden.md)
+    * [Übung 2 \(OPTIONAL\): Trainingsdaten erzeugen](sessions/session-2-1/iot-service-erstellen/sensoren-bzw.-geraete-anbinden.md)
   * [Daten transformieren](sessions/session-2-1/device-anbinden-and-android-app-installieren/README.md)
     * [Cloud Pak Intro](sessions/session-2-1/device-anbinden-and-android-app-installieren/cloud-pak-intro.md)
     * [Übung 3: CloudPak4D-as-a-Service anlegen in IBM Cloud](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-3-cloudpak4d-as-a-service-anlegen-in-ibm-cloud/README.md)
