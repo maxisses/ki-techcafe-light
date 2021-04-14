@@ -33,7 +33,6 @@
       * [Notebook ausführen - Daten untersuchen & transformieren](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-4-notebook-anlegen/notebook-ausfuehren.md)
   * [Modell trainieren mit AutoAI und deployen](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/README.md)
     * [Übung 5: AutoAI](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/autoai/README.md)
-      * [Untitled](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/autoai/untitled-1.md)
       * [AutoAI Experiment starten](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/autoai/untitled.md)
       * [AutoAI Experiment durchführen](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/autoai/autoai-experiment-durchfuehren.md)
       * [Modell speichern](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/autoai/xia-warum-kommt-das-jetzt-raus.md)
