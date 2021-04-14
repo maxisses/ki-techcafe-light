@@ -31,7 +31,7 @@
       * [Notebook ausführen - Daten untersuchen & transformieren](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-4-notebook-anlegen/notebook-ausfuehren.md)
   * [Modell trainieren mit AutoAI und deployen](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/README.md)
     * [Übung 5: AutoAI](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/autoai/README.md)
-      * [AutoAI Experiment starten](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/autoai/untitled.md)
+      * [AutoAI Experiment durchführen](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/autoai/untitled.md)
     * [Übung 6: Modell als REST-Api deployen](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/xia-warum-kommt-das-jetzt-raus.md)
   * ["Technologiestack" der Sessions](sessions/session-2-1/ibm-cloud-ki-services-ueberblick/README.md)
     * [Watson APIs - Natural Language Classifier](sessions/session-2-1/ibm-cloud-ki-services-ueberblick/watson-apis-natural-language-classifier.md)
