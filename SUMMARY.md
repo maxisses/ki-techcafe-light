@@ -36,7 +36,7 @@
       * [AutoAI Experiment starten](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/autoai/untitled.md)
       * [AutoAI Experiment durchführen](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/autoai/autoai-experiment-durchfuehren.md)
       * [Modell speichern](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/autoai/xia-warum-kommt-das-jetzt-raus.md)
-    * [Übung 1: Modell als API deployen](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/uebung-1-modell-als-api-deployen.md)
+    * [Übung 6: Modell als API deployen](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/uebung-1-modell-als-api-deployen.md)
 * [Session 3: Das Modell ist da – aber wie setzt man es ein?​](sessions/session-3/README.md)
   * [Intro](sessions/session-3/intro.md)
   * [Das Jupyter Notebook erstellen](sessions/session-3/das-jupyter-notebook-erstellen.md)
