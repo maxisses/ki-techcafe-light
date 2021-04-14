@@ -1,4 +1,8 @@
-# Projekt-ID extrahieren und Token anlegen um neuen Datensatz später im Projekt zu speichern
+---
+description: um neuen Datensatz später im Projekt zu speichern
+---
+
+# Projekt-ID extrahieren und Token anlegen
 
 Um gleich Dateien \(also unsere fürs ML aufbereiteten Sensordaten\) direkt als "Assets" innerhalb des eigenen Projekts zu speichern muss man gleich im Notebook \(dem Python Code\) die ProjektID und einen ProjektToken benutzen.
 
