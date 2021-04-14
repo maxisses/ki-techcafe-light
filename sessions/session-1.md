@@ -1,2 +1,2 @@
-# Session 1: Markus’ kleine Welt der KI​
+# Session 1: "kleine Welt der KI​"
 
