@@ -29,3 +29,11 @@ Passt das entsprechend an.
 
 Jetzt können wir wieder ganz hochscrollen und gemeinsam durch das Notebook durchgehen!
 
+### Überprüfen, dass alle Daten gespeichert wurden
+
+Wenn ihr nun zurück auf die Assets eures Projekts schaut sollten dort folgende Dateien von euch zu sehen sein. Und unten seht ihr schon "AutoAI experiments". Damit geht es in der nächsten Übung weiter.
+
+![](../../../../.gitbook/assets/image%20%2859%29.png)
+
+
+
