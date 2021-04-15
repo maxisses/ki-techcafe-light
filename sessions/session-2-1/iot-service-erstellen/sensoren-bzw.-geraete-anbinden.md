@@ -8,6 +8,8 @@ Jetzt können wir Trainingsdaten in die Datenbank schreiben, indem wir unsere Sm
 
 Der Link ist die angelegte "Route" des Frontends - in meinem Beispiel:
 
+![](../../../.gitbook/assets/image%20%28120%29.png)
+
 {% embed url="https://frontend-smartphone-sensor-max.ocpclusterpub-39df0ed7a3c2ec1b2ad7d1247807cc2f-0000.eu-de.containers.appdomain.cloud/" %}
 
 
