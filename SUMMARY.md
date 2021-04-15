@@ -39,7 +39,7 @@
     * [Übung 6: Modell als API deployen](sessions/session-2-1/wie-sehen-die-daten-aus-wie-werde-ich-zum-data-vizard/uebung-1-modell-als-api-deployen.md)
 * [Session 3: Das Modell ist da – aber wie setzt man es ein?​](sessions/session-3/README.md)
   * [Intro](sessions/session-3/intro.md)
-  * [revisited: Modell trainieren](sessions/session-3/revisited-modell-trainieren.md)
+  * [Modell trainieren und Deployen - diesmal in Code](sessions/session-3/revisited-modell-trainieren.md)
   * [Backend erweitern um Modell in Software Lifecycle zu überführen](sessions/session-3/backend-erweitern-um-modell-in-software-lifecycle-zu-ueberfuehren.md)
   * [Das Jupyter Notebook erstellen](sessions/session-3/das-jupyter-notebook-erstellen.md)
   * [Datenvisualisierung mit Python](sessions/session-3/datenvisualisierung-mit-python.md)
