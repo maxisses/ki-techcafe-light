@@ -24,13 +24,11 @@ Natürlich die Spalte "classes" und die wählen wir aus.
 
 ### Features - fürs Training zu nutzende Spalten - anpassen
 
-Das "time\_window" ist Bestandteil unserer Daten. Es ist kein Feature von dem man sich in der aktuellen Variante "Vorhersagekraft" versprechen könnten. Deshalb müssen wir es dediziert abwählen als Feature für das Training.
+Man kann natürlich auch anpassungen vornehmen. In den Experiment Settings könnte man Spalten für das Training abwählen bzw. die Holdout, Test- und Trainingsdaten anpassen. All das ist für uns hier nicht notwendig.
 
 ![](../../../../.gitbook/assets/image%20%2861%29.png)
 
-![](../../../../.gitbook/assets/image%20%2868%29.png)
-
-Nach dem "Save Settings" können wir loslegen:
+### Starten
 
 ![](../../../../.gitbook/assets/image%20%2872%29.png)
 
