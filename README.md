@@ -9,7 +9,7 @@ Technologien:
 * Cloud Pak For Data auf der IBM Cloud
 * Speicher: S3
 * Container: CodeEngine 
-* tbd: Kubernetes / OpenShift
+* Containermgmt: Kubernetes / OpenShift
 
 Diese Einleitung ist folgendermaßen aufgebaut:
 
