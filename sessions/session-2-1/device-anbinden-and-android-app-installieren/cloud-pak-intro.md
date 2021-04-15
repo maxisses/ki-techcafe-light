@@ -1,12 +1,10 @@
-# Cloud Pak Intro
+# Cloud Pak 4 Data Intro
 
---&gt; Was ist ein Projekt
+Folgende Abbildung zeigt die Kernfähigkeiten von Cloud Pak 4 Data
 
---&gt; Was ist ein Notebook
+![](../../../.gitbook/assets/image%20%28121%29.png)
 
---&gt; Was ist eine Runtime
 
---&gt; Was ist python?
 
---&gt; Warum ein Objekt Store?
+
 
