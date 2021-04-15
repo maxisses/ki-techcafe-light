@@ -1,4 +1,4 @@
-# Daten transformieren
+# Daten transformieren \(1/2\)
 
 Bei diesem Schritt geht es darum die Daten soweit aufzubereiten, dass mit diesen ein Machine Learning Model trainiert werden kann. Um diese Transformation, sowie auch die folgende Schritte zu bewerkstelligen, nutzen wir die vielfältigen Möglichkeiten des Cloud Paks for Data as a Service \(CP4DaaS\).
 
