@@ -1,2 +1,0 @@
-# Datenvisualisierung mit Python
-

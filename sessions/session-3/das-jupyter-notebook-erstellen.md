@@ -1,2 +1,2 @@
-# Das Jupyter Notebook erstellen
+# Monitoring mit OpenScale
 
