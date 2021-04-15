@@ -22,13 +22,13 @@ Wir fokussieren uns für unseren Use Case erstmals auf das vielverwendete Smartp
 
 ## Welche Daten benutzen wir?
 
-Nun stellt sich die Frage welche dieser Sensoren ist für unseren Use Case geeignet? Grundsätzlich macht es Sinn dem Prinzip **"Just enough Data"** zu folgen. Dies macht schon nur aus Datenschutz-Gründen \(GDPR\) Sinn.
+Nun stellt sich die Frage welche dieser Sensoren ist für unseren Use Case geeignet? Grundsätzlich macht es Sinn dem Prinzip **"Just enough Data"** zu folgen, d.h. nur so viele Daten zu sammeln und zu verwenden wie notwendig. Dieses Prinzip macht schon nur aus Datenschutz-Gründen \(GDPR\) Sinn.
 
-Da es darum geht dynamische Bewegungen zu erfassen, schränkt dies die Möglichkeiten stark ein. Konkret bieten sich 2 Sensortypen an:  
+Da es darum geht dynamische Bewegungen zu erfassen, schränkt dies die Auswahl stark ein. Konkret bieten sich 2 Sensortypen an:  
  - **Akzelerometer**, der die Beschleunigung des Gerätes misst  
  - **Gyroskop,** das die Winkelgeschwindigkeit misst
 
-Da wir noch nicht genau wissen, ob nicht nur die Beschleungiungdaten. Jedoch versuchen wir ein einem Schritt ein Model nur aufrgund der Beschleunigungsdaten 
+Da wir noch nicht genau wissen, ob nicht nur die Daten des **Akzelerometers** genügen, sammeln wir gelichzeit die Daten des **Gyroskops**. Jedoch versuchen wir im ersten Schritt unser ML-Model nur aufrgund der Beschleunigungsdaten zu trainieren, und schauen, ob entsprechende Performance unseren Anfordereungen genügt.
 
 
 
