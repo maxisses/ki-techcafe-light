@@ -1,4 +1,4 @@
-# Ü3.3 Jupyter Notebook anlegen
+# Ü3.3 Jupyter Notebook für Datenvorbereitung anlegen
 
 #### Beschreibung
 
