@@ -3,7 +3,22 @@
 Nun binden wir unser Modell an die bereits bestehende Webanwendung für das Mobiltelefon.  
 Eigentlich müssten wir natürlich hier im Sinne des Anwendungsfalls eine Extrafunktionalität für den "Enkel" bauen. Für den Showcase hier reicht es uns beides in einer Anwendung zu halten.
 
-Dazu wird eine weitere Funktionalität installiert, welche die Datentransformation durchführt und die Daten an das in Watson Machine Learning als API zur Verfügung gestellte Modell sendet
+Dazu wird eine weitere Funktionalität installiert, welche die Datentransformation durchführt und die Daten an das in Watson Machine Learning als API zur Verfügung gestellte Modell sendet.  
+Diese liegt erneut im GitRepo, welches wir aus Übung 1 kennen.
+
+### Umgebungsvariablen prüfen die wir aus Übung 1 kennen
+
+Bevor wir deployen können müssen wir allerdings wieder einige Umgebungsvariablen mitgeben.  
+Im Ordner "openshift" des gecloned GitRepos liegen bereits die pg-datenbank.env \(in die Datenbank, werden die Antworten/Predictions des Modells geschrieben\) und die backend-env.env Datei.  
+Ebenfalls wie die backend-Funktionalität greift das Inferencing-Backend auch nicht von außerhalb \(so wie das Frontend vom Browser des jeweiligen Nutzers\) auf den Cluster zu und deshalb nutzen wir hier wieder die gleiche backend-env.env Umgebungsvariablen des Brokers. Hier sollte nichts zu tun sein.
+
+
+
+
+
+
+
+
 
 Im Ordner "openshift" des gecloned GitRepos liegt eine Datei backend-env.env   
 Da unsere backend-Funktionalität nicht von außerhalb \(so wie das Frontend vom Browser des jeweiligen Nutzers\) auf den Cluster zugreift nutzen wir hier den OpenShift Projektinternen Namen des mosquitto-Broker. Der ist einfach "mosquitto". Wenn man in der GUI in der DeveloperSicht in der Topologie auf den Kreis mosquitto klickt sieht man rechts unten den Service "mosquitto", welcher u.A. den Port 1883 freigibt.
