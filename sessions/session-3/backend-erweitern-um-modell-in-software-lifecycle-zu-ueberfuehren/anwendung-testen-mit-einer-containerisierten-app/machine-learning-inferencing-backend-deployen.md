@@ -39,3 +39,7 @@ Auf der Kommandozeile geht man in den "openshift" Ordner und loggt sich ggf. noc
 oc new-app https://github.com/maxisses/sensorapp.git --context-dir=inference-app/ --strategy=docker --env-file=ibm-wml.env --env-file=pg-datenbank.env --env-file=backend-env.env --name=ml-inferencing-backend -l name=ml-inference -l app.kubernetes.io/part-of=sensorapp
 ```
 
+{% hint style="danger" %}
+Die Raute \(\#\) wird wieder gefressen und muss nachgetragen werden!
+{% endhint %}
+
