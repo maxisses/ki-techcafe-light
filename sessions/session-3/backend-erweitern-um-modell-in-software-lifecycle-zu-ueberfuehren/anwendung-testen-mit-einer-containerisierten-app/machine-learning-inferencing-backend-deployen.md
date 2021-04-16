@@ -12,32 +12,30 @@ Bevor wir deployen können müssen wir allerdings wieder einige Umgebungsvariabl
 Im Ordner "openshift" des gecloned GitRepos liegen bereits die pg-datenbank.env \(in die Datenbank, werden die Antworten/Predictions des Modells geschrieben\) und die backend-env.env Datei.  
 Ebenfalls wie die backend-Funktionalität greift das Inferencing-Backend auch nicht von außerhalb \(so wie das Frontend vom Browser des jeweiligen Nutzers\) auf den Cluster zu und deshalb nutzen wir hier wieder die gleiche backend-env.env Umgebungsvariablen des Brokers. Hier sollte nichts zu tun sein.
 
+### API Endpunkt des Modells und API-Key mitgeben
+
+Um die Informationen wieder als Umgebungsvariablen in die Anwendung zu geben, legen wir im "openshift" Ordner ein weiteres File mit dem Namen "ibm-wml.env" an, welches durch eigene Werte angepasst werden muss.
+
+Diese erhält man indem man einen IAM API Key in der IBM Cloud Oberfläche generiert: [https://cloud.ibm.com/docs/account?topic=account-userapikey\#create\_user\_key](https://cloud.ibm.com/docs/account?topic=account-userapikey#create_user_key)
+
+Und den Scoring Endpunkt haben sehen wir CloudPak4Data bzw. Watson Studio im Deployment des Modells
+
+![](../../../../.gitbook/assets/image%20%28123%29.png)
 
 
-
-
-
-
-
-
-Im Ordner "openshift" des gecloned GitRepos liegt eine Datei backend-env.env   
-Da unsere backend-Funktionalität nicht von außerhalb \(so wie das Frontend vom Browser des jeweiligen Nutzers\) auf den Cluster zugreift nutzen wir hier den OpenShift Projektinternen Namen des mosquitto-Broker. Der ist einfach "mosquitto". Wenn man in der GUI in der DeveloperSicht in der Topologie auf den Kreis mosquitto klickt sieht man rechts unten den Service "mosquitto", welcher u.A. den Port 1883 freigibt.
-
-![](../../../../.gitbook/assets/image%20%2820%29.png)
-
-![](../../../../.gitbook/assets/image%20%2838%29.png)
-
-Im Folgenden Befehl für das Deployment des Backends könnt ihr beim genauen hinsehen erkennen, dass alerdings ein zweites ENV File benötigt wird. Das Backend soll Daten vom MQTT Broker holen und in eine Datenbank schreiben damit wir mit dem Training eines Modells starten können. 
-
-Als Datenbank nutzen wir eine relationale PostgreSQL Datenbank, gemanaged von der IBM Cloud. Diese wird euch gestellt und ihr müsst lediglich die Zugangsdaten in eine neu anzulegende Datei eintragen, welche dann auch wieder als Umgebungsvariablen in der Anwendung verfügbar gemacht werden.
-
-Die Zugangsdaten werden euch in der Session zur Verfügung gestellt und müssen in der Datei "pg-datenbank.env" gespeichert werden.
-
-![](../../../../.gitbook/assets/image%20%2835%29.png)
-
-Nachdem das File im Ordner angelegt ist kann deployed werden mit Folgendem Befehl:
 
 ```text
-oc new-app https://github.com/maxisses/sensorapp.git --context-dir=iot-subscriber/ --strategy=docker --env-file=backend-env.env --env-file=pg-datenbank.env --name=backend -l name=backend -l app.kubernetes.io/part-of=sensorapp -l app.kubernetes.io/name=python
+WML_API_KEY=****************************
+SCORING_ENDPOINT=https://us-south.ml.cloud.ibm.com/ml/v4/deployments/fa153c9b-10b6-46f8-a4da-2d1e1c495f44/predictions?version=******
+```
+
+![](../../../../.gitbook/assets/image%20%28124%29.png)
+
+### Deployen der Komponente
+
+Auf der Kommandozeile geht man in den "openshift" Ordner und loggt sich ggf. nochmal neu in den OpenShift Cluster ein \(Vgl. Übung 1\). Danach kann man die Anwendung mit Folgendem Befehl deployen:
+
+```text
+oc new-app https://github.com/maxisses/sensorapp.git --context-dir=inference-app/ --strategy=docker --env-file=ibm-wml.env --env-file=pg-datenbank.env --env-file=backend-env.env --name=ml-inferencing-backend -l name=ml-inference -l app.kubernetes.io/part-of=sensorapp
 ```
 
