@@ -45,7 +45,7 @@
       * [Credentials im Notebook setzen](sessions/session-3/revisited-modell-trainieren/uebung-8/credentials-im-notebook-setzen.md)
       * [Notebook ausführen](sessions/session-3/revisited-modell-trainieren/uebung-8/notebook-ausfuehren.md)
   * [Backend erweitern um Modell in Software Lifecycle zu überführen](sessions/session-3/backend-erweitern-um-modell-in-software-lifecycle-zu-ueberfuehren/README.md)
-    * [Anwendung Testen mit unserer Anwendungen](sessions/session-3/backend-erweitern-um-modell-in-software-lifecycle-zu-ueberfuehren/anwendung-testen-mit-einer-containerisierten-app.md)
+    * [Übung 9: Anwendung Testen mit unserer Anwendungen](sessions/session-3/backend-erweitern-um-modell-in-software-lifecycle-zu-ueberfuehren/anwendung-testen-mit-einer-containerisierten-app.md)
   * [Monitoring mit OpenScale](sessions/session-3/das-jupyter-notebook-erstellen.md)
 * [Session 4: Texte und Data Science - Visualisierung & Klassifikation](sessions/session-4/README.md)
   * [Intro - Warum ist Text anders?](sessions/session-4/intro-warum-ist-text-anders.md)
