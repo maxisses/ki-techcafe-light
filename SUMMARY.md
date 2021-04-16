@@ -27,7 +27,7 @@
       * [Ü3.1 - Services aufsetzen & Projekt anlegen](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-3-cloudpak4d-as-a-service-anlegen-in-ibm-cloud/services-aufsetzen.md)
       * [Ü3.2 Connect Data / Visuelle Datenbearbeitung zeigen](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-3-cloudpak4d-as-a-service-anlegen-in-ibm-cloud/optional-connect-data-visuelle-datenbearbeitung-zeigen.md)
       * [Ü3.3 Jupyter Notebook für Datenvorbereitung anlegen](sessions/session-2-1/device-anbinden-and-android-app-installieren/uebung-3-cloudpak4d-as-a-service-anlegen-in-ibm-cloud/jupyter-notebook-anlegen.md)
-* [Session 3: Daten vorbereiten, Modelle trainieren und bewerten](sessions/session-3/README.md)
+* [Session 3a: Daten vorbereiten, Modelle trainieren und bewerten](sessions/session-3/README.md)
   * [Daten transformieren \(2/2\)](sessions/session-3/daten-transformieren-2-2/README.md)
     * [Übung 4: Daten vorbereiten für Machine Learning](sessions/session-3/daten-transformieren-2-2/uebung-4-notebook-anlegen/README.md)
       * [Projekt-ID extrahieren und Token anlegen](sessions/session-3/daten-transformieren-2-2/uebung-4-notebook-anlegen/projekt-id-extrahieren-und-token-anlegen-um-datensatz-zu-speichern.md)

@@ -1,2 +1,2 @@
-# Session 3: Daten vorbereiten, Modelle trainieren und bewerten
+# Session 3a: Daten vorbereiten, Modelle trainieren und bewerten
 
