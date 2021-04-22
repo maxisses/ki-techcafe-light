@@ -2,7 +2,7 @@
 
 {% hint style="warning" %}
 Leider müssen wir das entsprechende Zertifikat für eine verschlüsselte Verbindung zB über eine ConfigMap in den Container des MQTT Broker reinmounten.   
-Diese laufen aller 90 Tage ab - der Prozess ist hier noch nicht mit LetsEncrypt und regelmäßiger Aktualisierung automatisiert - erstens aus Zeitgründen, und zweitens ist es ein gutes Learning :\). Nach 90 Tagen wird der MQTT Broker also vom Frontend keine Daten mehr akzeptieren, außer man macht das nachfolgende wieder manuell.
+Diese laufen aller 90 Tage ab - der Prozess ist hier noch nicht mit LetsEncrypt und regelmäßiger Aktualisierung automatisiert - erstens aus Zeitgründen, und zweitens ist es ein gutes Learning :\). Nach 90 Tagen wird der MQTT Broker also vom Frontend keine Daten mehr akzeptieren, außer man macht Schritt 1 und 3 auf dieser Seite erneut.
 
 Die durch den Loadbalancer der Cloud automatisch erzeugten Zertifikate werden hier \(siehe Screenshot\) abgelegt und können abgerufen werden um sie auch in den MQTT Broker zu importieren.
 {% endhint %}
