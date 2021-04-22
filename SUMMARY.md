@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Über das KI-TechCafé](README.md)
+* [Über das Container- & KI-TechCafé](README.md)
 * [Prework](prework.md)
 
 ## Sessions
@@ -13,7 +13,8 @@
     * [Übung 1 \(OPTIONAL\): Deployment auf OpenShift](sessions/session-2-1/iot-service-erstellen/frontend-auf-openshift-deployen/README.md)
       * [Verbinden mit dem OpenShift Cluster](sessions/session-2-1/iot-service-erstellen/frontend-auf-openshift-deployen/untitled.md)
       * [eigenes OpenShift Projekt anlegen](sessions/session-2-1/iot-service-erstellen/frontend-auf-openshift-deployen/eigenes-openshift-projekt-anlegen.md)
-      * [1. Deploy MQTT Broker](sessions/session-2-1/iot-service-erstellen/frontend-auf-openshift-deployen/untitled-1.md)
+      * [1. Deploy MQTT Broker](sessions/session-2-1/iot-service-erstellen/frontend-auf-openshift-deployen/untitled-1/README.md)
+        * [Zertifikatshölle](sessions/session-2-1/iot-service-erstellen/frontend-auf-openshift-deployen/untitled-1/zertifikatshoelle.md)
       * [2. Deploy Frontend](sessions/session-2-1/iot-service-erstellen/frontend-auf-openshift-deployen/2.-deploy-frontend.md)
       * [3. Deploy Backend](sessions/session-2-1/iot-service-erstellen/frontend-auf-openshift-deployen/3.-deploy-backend.md)
       * [Verbindung testen](sessions/session-2-1/iot-service-erstellen/frontend-auf-openshift-deployen/verbindung-testen.md)

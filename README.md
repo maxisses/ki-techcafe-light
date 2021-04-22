@@ -1,4 +1,4 @@
-# Über das KI-TechCafé
+# Über das Container- & KI-TechCafé
 
 ## About
 
@@ -30,7 +30,7 @@ Diese Einleitung ist folgendermaßen aufgebaut:
 
 ## **Vorkenntnisse & Was sollte man mitbringen:**
 
-* Grundausbildung Cloud aus 2020: [https://ibm.box.com/v/publicdach-techamdonnerstag](https://ibm.box.com/v/publicdach-techamdonnerstag)
+* Grundausbildungkenntnisse Container: [https://ibm.box.com/v/publicdach-techamdonnerstag](https://ibm.box.com/v/publicdach-techamdonnerstag)
 * Neugier, Engagement, Motivation
 * grundlegende IT-Kenntnisse
 * ein bisschen Code **lesen können** hilft
