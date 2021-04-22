@@ -28,7 +28,7 @@ ibmcloud ks nlb-dns ls --cluster OCPclusterPub
 
 Das Deployment war allerdings noch nicht erfolgreich - Wir müssen in die "Zertifikatshölle", damit der entsprechende listener auf Port 8883, den später unser Frontend für verschlüsselte Kommunikation nutzen möchte, geöffnet wird.
 
-![](../../../../../.gitbook/assets/image%20%28126%29.png)
+![](../../../../../.gitbook/assets/image%20%28127%29.png)
 
 ![](../../../../../.gitbook/assets/image%20%28125%29.png)
 

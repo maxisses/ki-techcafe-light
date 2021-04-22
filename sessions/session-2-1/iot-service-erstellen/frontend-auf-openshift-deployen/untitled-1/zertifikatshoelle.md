@@ -84,11 +84,43 @@ oc apply -f openshift/mosquitto/ocp-mosquitto-nlb-cert-secret.yaml
 Beim anlegen des Mosquitto Deployments sind wir den "leichten Weg" gegangen mit **oc new-app.**  
 Aber dabei werden selbstverständlich YAML-Dateien angelegt. Nämlich automatisiert.
 
-Im Cluster können wir in unserem Projekt das Deployment in der Topologie anwählen und in das YAML des Deployment gehen.
+Im Cluster können wir in unserem Projekt das Deployment in der Topologie anwählen und in das YAML des Deployment gehen \(rechts oben aufs blaue D klicken\).
+
+![](../../../../../.gitbook/assets/image%20%28126%29.png)
+
+Als erstes muss eine Referenz im Deployment auf unsere ConfigMap und das Secret erstellt werden. Da wir beides später als Dateien auf dem Filesystem des Containers liegen haben wollen greifen wir als "Volume" darauf zu:
+
+![](../../../../../.gitbook/assets/image%20%28129%29.png)
+
+```text
+volumes:
+  - name: mosquitto-certs
+    projected:
+      sources:
+        - secret:
+            name: mosquitto-cert
+  - name: config-file
+    configMap:
+      name: mosquitto-config
+```
+
+Und als zweites müssen wir im gleichen YAML ein Stück weiter unten in der "Containers" Sektion, sagen in welchen Ordnern des Filesystems des Containers die Dateien angelegt werden sollen.
+
+![](../../../../../.gitbook/assets/image%20%28128%29.png)
+
+```text
+volumeMounts:
+  - name: mosquitto-certs
+    readOnly: true
+    mountPath: /etc/mosquitto/certs/
+  - name: config-file
+    mountPath: /mosquitto/config/mosquitto.conf
+    subPath: mosquitto.conf
+```
+
+Danach geht auf Save und das Deployment sollte auf grün gehen.
 
 {% hint style="info" %}
-oc new-app .... not .. . sondern yaml files ziehen für prod in helm chart packen
+OpenShift hat hier wie man schon sieht durch die oc new-app Funktionalität extrem viel Komplexität gekapselt. Für Dev ist das hervorragend. Später ist es gemäß GitOps sehr sinnvoll die YAML-Files zu extrahieren und so wie wir es mit dem secret / configmap gemacht haben als YAML im GitRepo abzulegen und von dort zu deployen.
 {% endhint %}
-
-Diese müssen im Kubernetes 
 
