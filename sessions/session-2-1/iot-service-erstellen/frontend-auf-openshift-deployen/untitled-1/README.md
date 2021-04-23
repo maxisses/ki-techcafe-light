@@ -26,6 +26,8 @@ ibmcloud ks nlb-dns ls --cluster OCPclusterPub
 
 ![](../../../../../.gitbook/assets/image%20%2826%29.png)
 
+Der "SSL Cert Status" dauert einen Moment bis er auf "created" geht.
+
 Das Deployment war allerdings noch nicht erfolgreich - Wir müssen in die "Zertifikatshölle", damit der entsprechende listener auf Port 8883, den später unser Frontend für verschlüsselte Kommunikation nutzen möchte, geöffnet wird.
 
 ![](../../../../../.gitbook/assets/image%20%28127%29.png)
