@@ -57,7 +57,7 @@ apiVersion: v1
 kind: Secret
 metadata:
   name: mosquitto-cert
-  namespace: sensorapp-dummymax
+  namespace: <your namespace>
 data:
   keyfile_default.key: |-
     <hier key base64 encoded aus dem zip-File reinpasten>
@@ -123,4 +123,14 @@ Danach geht auf Save und das Deployment sollte auf grün gehen.
 {% hint style="info" %}
 OpenShift hat hier wie man schon sieht durch die oc new-app Funktionalität extrem viel Komplexität gekapselt. Für Dev ist das hervorragend. Später ist es gemäß GitOps sehr sinnvoll die YAML-Files zu extrahieren und so wie wir es mit dem secret / configmap gemacht haben als YAML im GitRepo abzulegen und von dort zu deployen.
 {% endhint %}
+
+Et voilá - euer Broker ist über secure Websocket auf Port 8883 über die Domain, welche man mit 
+
+```text
+ibmcloud ks nlb-dns ls --cluster OCPclusterPub
+```
+
+abrufen konnte. Bspw: ocpclusterpub-39df0ed7a3c2ec1b2ad7d1247807cc2f-0003.eu-de.containers.appdomain.cloud:8883
+
+![](../../../../../.gitbook/assets/image%20%28132%29.png)
 

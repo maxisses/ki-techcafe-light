@@ -36,7 +36,7 @@ SCORING_ENDPOINT=https://us-south.ml.cloud.ibm.com/ml/v4/deployments/fa153c9b-10
 Auf der Kommandozeile geht man in den "openshift" Ordner und loggt sich ggf. nochmal neu in den OpenShift Cluster ein \(Vgl. Übung 1\). Danach kann man die Anwendung mit Folgendem Befehl deployen:
 
 ```text
-oc new-app https://github.com/maxisses/sensorapp.git --context-dir=inference-app/ --strategy=docker --env-file=ibm-wml.env --env-file=pg-datenbank.env --env-file=backend-env.env --name=ml-inferencing-backend -l name=ml-inference -l app.kubernetes.io/part-of=sensorapp
+oc new-app https://github.com/maxisses/sensorapp.git --context-dir=inference-app/ --strategy=docker --env-file=ibm-wml.env --env-file=pg-datenbank.env --env-file=backend-env.env --name=ml-inferencing-backend -l name=ml-inference -l app.kubernetes.io/part-of=sensorapp -l app.kubernetes.io/name=python
 ```
 
 {% hint style="danger" %}
