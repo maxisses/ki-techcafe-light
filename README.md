@@ -2,7 +2,7 @@
 
 ## About
 
-Das KI TechCafe light ist für alle (Partner und gerne auch Kunden), die Interesse haben Data Science, Machine Learning und Deep Learning auf der IBM Cloud kennenzulernen. Dabei arbeiten wir mit Tabellen, Text und Bild um zu Klassifizieren, Informationen zu extrahieren (Entitäten) oder sogar Fake Texte oder Bilder zu generieren. Außerdem beschäftigen wir uns damit wie wir ein Modell verfügbar machen, damit andere Dienste es nutzen können.
+Das KI TechCafe light ist für alle (Kunden, Partner & IBMer), die Interesse haben Data Science, Machine Learning und Deep Learning auf der IBM Cloud kennenzulernen. Dabei arbeiten wir mit Tabellen, Text und Bild um zu Klassifizieren, Informationen zu extrahieren (Entitäten) oder sogar Fake Texte oder Bilder zu generieren. Außerdem beschäftigen wir uns damit wie wir ein Modell verfügbar machen, damit andere Dienste es nutzen können.
 
 Technologien:
 
